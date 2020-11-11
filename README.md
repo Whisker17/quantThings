@@ -2,4 +2,4 @@
 
 **[Glossary](./glossary/README.md)**
 
-** DEX Quant ！！！！！！！！**
+**DEX Quant ！！！！！！！！**
